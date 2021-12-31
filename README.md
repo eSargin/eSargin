@@ -1,16 +1,19 @@
-### Hi there 👋
+ <h3 align="center">👋 Hi there! I'm Emin SARGIN</h3>
+<p align="center">
+  <a href="https://www.eminsargin.com.tr">Website</a> •
+  <a href="https://medium.com/@eminsargin">Twitter</a>
+</p>
 
-<!--
-**eSargin/eSargin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Sarcastic Software Developer working in Isparta / Turkey.
+ 
 
-Here are some ideas to get you started:
+##### BIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ I use daily: `.java`, `.pl-sql`, `.postgre-sql`,`.svg`, `.psd`, `.ai`
+- 🌍 I'm mostly active within the **Java Community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
+ 
+
+
