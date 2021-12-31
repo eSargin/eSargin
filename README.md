@@ -1,7 +1,7 @@
  <h3 align="center">👋 Hi there! I'm Emin SARGIN</h3>
 <p align="center">
   <a href="https://www.eminsargin.com.tr">Website</a> •
-  <a href="https://medium.com/@eminsargin">Twitter</a>
+  <a href="https://medium.com/@eminsargin">Medium</a>
 </p>
 
 #### I'm a Sarcastic Software Developer working in Isparta / Turkey.
