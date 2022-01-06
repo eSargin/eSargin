@@ -13,7 +13,6 @@
 - 🌍 I'm mostly active within the **Java Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
  
 
 
