@@ -17,7 +17,7 @@ Curiosity drives my professional journey, and I am always keen to tackle complex
 
 ### 🛠️ Core Skills
 
-- **Backend Development:** Golang, Python, Java
+- **Backend Development:** Golang, Python
 - **Database Management:** PostgreSQL, SQL, NoSQL
 - **System & Network Security:** Firewall configurations, VPNs, Network Protocols
 - **Cloud & Virtualization:** Docker, FreeBSD, ESXi, OpenWRT
